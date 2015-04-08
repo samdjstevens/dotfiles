@@ -1,3 +1,13 @@
+
+# Shortcuts
+alias s="sudo"
+
+# Multi level dir creation
+alias mkdir='mkdir -pv'
+
+# Calculator with standard maths library
+alias bc='bc -l'
+
 # Git
 
 alias gs="git status"
