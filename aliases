@@ -1,0 +1,14 @@
+# Git
+
+alias gs="git status"
+alias ga="git add"
+alias gd="git diff"
+alias gc="git commit"
+alias gco="git checkout"
+alias gp="git pull"
+alias gpu="git push"
+alias gsnp="git -c core.fileMode=false status"
+
+# Misc
+
+alias idunno="echo '¯\_(ツ)_/¯'"
