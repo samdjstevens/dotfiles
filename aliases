@@ -1,6 +1,7 @@
 
 # Shortcuts
 alias s="sudo"
+alias ls="ls -al"
 
 # Multi level dir creation
 alias mkdir='mkdir -pv'
